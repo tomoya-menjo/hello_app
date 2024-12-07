@@ -1,6 +1,6 @@
 databases:
   - name: hello_app
-    databaseName: hello_app
+    databaseName: hello_app_production
     user: hello_app
     plan: free
 
